@@ -16,7 +16,7 @@ a {
   color: yellow;
 }
 div {
-  width: 70%;
+  width: 100%;
   text-align: justify;
 }
 h2  {
@@ -41,6 +41,7 @@ body  {
   font-family: 'Quicksand', sans-serif;
   background-color: #003182;
   color: white;
+  text-align: justify;
 }
 
 /* Font disponibili:
